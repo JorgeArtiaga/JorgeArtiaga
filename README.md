@@ -16,12 +16,14 @@ with hands-on industry experience in **aviation** and **consumer goods (FMCG)**.
 
 ## Industry experience
 
-**Aviation: airport operations**
+### Aviation: airport operations
+
 Over two years at Lima Airport building KPIs and dashboards for Airport Operations management:
 on-time performance, taxi times, fueling, resource allocation, passenger processing times,
 level of service (LoS) and A-CDM (Airport Collaborative Decision Making).
 
-**Consumer goods (FMCG): beverages**
+### Consumer goods (FMCG): beverages
+
 Data analytics for a soft drink company with operations in Peru and the Caribbean.
 
 ## Experience highlights
