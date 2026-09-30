@@ -59,6 +59,7 @@ Methods: BPMN · Lean Six Sigma · Process simulation
 
 | Project | Description |
 | --- | --- |
+| [Airline On-Time Performance](https://github.com/JorgeArtiaga/open-data-analytics/tree/main/airline-on-time-performance) | US flight delays and ground operations KPIs with Python, SQL (DuckDB) and Power BI, on BTS open data (in progress) |
 | [Text Encryptor](https://github.com/JorgeArtiaga/proj-text-encryptor) | Browser text encryptor built with HTML, CSS and JavaScript (ONE challenge) |
 
 More Power BI, SQL and Python projects coming soon.
