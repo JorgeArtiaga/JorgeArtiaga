@@ -45,7 +45,7 @@ Methods: BPMN · Lean Six Sigma · Process simulation
 
 | Project | Description |
 | --- | --- |
-| [Text Encryptor](https://github.com/JorgeArtiaga/EncriptadorDeTextoChallenger) | Browser text encryptor built with HTML, CSS and JavaScript (ONE challenge) |
+| [Text Encryptor](https://github.com/JorgeArtiaga/proj-text-encryptor) | Browser text encryptor built with HTML, CSS and JavaScript (ONE challenge) |
 
 More Power BI, SQL and Python projects coming soon.
 
